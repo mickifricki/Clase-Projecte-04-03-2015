@@ -1,0 +1,13 @@
+﻿Compilación iniciada a las 04/03/2015 12:02:23.
+     1>Proyecto "C:\Users\miquelsc4\Desktop\Clase-Projecte-04-03-2015\Joc\Joc\Joc.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\soft\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\soft\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\miquelsc4\Desktop\Clase-Projecte-04-03-2015\Joc\Debug\Joc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\miquelsc4\Desktop\Clase-Projecte-04-03-2015\Joc\Debug\Joc.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\miquelsc4\Desktop\Clase-Projecte-04-03-2015\Joc\Debug\Joc.lib" /MACHINE:X86 Debug\Main.obj
+         Joc.vcxproj -> C:\Users\miquelsc4\Desktop\Clase-Projecte-04-03-2015\Joc\Debug\Joc.exe
+     1>Compilación del proyecto terminada "C:\Users\miquelsc4\Desktop\Clase-Projecte-04-03-2015\Joc\Joc\Joc.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.11
